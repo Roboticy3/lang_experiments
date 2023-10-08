@@ -70,7 +70,7 @@ We'll just have to see how it goes */
         display: flex;
         margin: 0%;
         height: 50%;
-        align-items: stretch;
+        align-items: center;
         align-self: center;
         background-color: yellow;
     }
@@ -119,8 +119,6 @@ We'll just have to see how it goes */
 <script>
 
     import playImage from '$lib/assets/GO.jpeg'
-
-    let g = new Gate();
 
     let label = ""
     
