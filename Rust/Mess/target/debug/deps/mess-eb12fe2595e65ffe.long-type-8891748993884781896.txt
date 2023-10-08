@@ -1,0 +1,1 @@
+ProceduralRound<char, ProceduralMess<char, [closure@src/main.rs:24:9: 24:12], [closure@src/main.rs:32:9: 32:12]>, [closure@src/main.rs:37:21: 37:53]>
